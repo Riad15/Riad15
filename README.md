@@ -1,6 +1,4 @@
-### Hi there | I am Riad 👋
-
-Here are some ideas to get you started:
+### Hello ! I am Riad 👋
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning React,node js,opp,datastructure and Competitive Programming
@@ -10,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: asifriad15@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I can laugh for no reason
--
+
